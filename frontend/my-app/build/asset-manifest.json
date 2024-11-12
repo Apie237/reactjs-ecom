@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad7cebea.css",
+    "main.js": "/static/js/main.a20026fd.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/kids-banner.jpg": "/static/media/kids-banner.e28b7bf4544770e16c5b.jpg",
+    "static/media/hero-image.jpg": "/static/media/hero-image.c386587ef5d5d9a58b3b.jpg",
+    "static/media/men-banner.jpg": "/static/media/men-banner.b9255badf221f136bd8e.jpg",
+    "static/media/women-banner.jpg": "/static/media/women-banner.1df28624498e517aef1e.jpg",
+    "static/media/product-3.jpg": "/static/media/product-3.d835f03c39a5c36e0eee.jpg",
+    "static/media/exclusive-img2.jpg": "/static/media/exclusive-img2.7bb4fe801c3c17875495.jpg",
+    "static/media/product-1.jpg": "/static/media/product-1.cf1a2dcc075576249a92.jpg",
+    "static/media/collection-8.jpg": "/static/media/collection-8.2f356fbbed7a5225aa39.jpg",
+    "index.html": "/index.html",
+    "main.ad7cebea.css.map": "/static/css/main.ad7cebea.css.map",
+    "main.a20026fd.js.map": "/static/js/main.a20026fd.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad7cebea.css",
+    "static/js/main.a20026fd.js"
+  ]
+}
